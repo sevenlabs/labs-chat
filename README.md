@@ -3,7 +3,6 @@
 </h4>
 
 <div align="center">
-	<img src="https://user-images.githubusercontent.com/24248108/164179346-a4f24916-7c9f-42db-b89e-6df85b01ca61.jpg">
 	<h1 align="center">🎨 Labs Chat - Chat Theme</h1>
 	<p align="center">
 	    labs-chat is a chat theme with a custom message template for FiveM's default chat resource.
