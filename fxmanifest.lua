@@ -3,7 +3,7 @@ game 'gta5'
 author 'nano11bravo'
 description 'An updated chat theme based on Chat resource for FiveM.'
 url 'https://www.github.com/nano11bravo/'
-version '1.0.1'
+version '1.0.2'
 lua54 'yes'
 
 server_script 'server/main.lua'
