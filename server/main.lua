@@ -34,9 +34,11 @@ end)
 
 AddEventHandler('chatMessage', function(source, author, message)
     local formattedMessage = author .. ': ' .. message
-    updateLogFile(formattedMessage)
+    --updateLogFile(formattedMessage)
 end)
 
+
+-- keep a log of chat (disabled for privacy)
 function updateLogFile(v)
     if LoadResourceFile(GetCurrentResourceName(), 'chat_log.log') == nil then
         SaveResourceFile(GetCurrentResourceName(), 'chat_log.log', '')
